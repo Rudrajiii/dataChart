@@ -1,0 +1,13 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}body {min-height: 100vh;background:#fff;}
+.display {display: flex;}
+.align-center {align-items: center;}
+.justify {justify-content: center;}
+.subMain{width: 50vw;height: 4rem;border-radius: 1rem;margin-top: 1rem;}
+.belowPart {width: 50vw;margin-top: 1rem;}
+.main {flex-direction: column;}
+button{padding: 1rem 2rem;border-radius: 1rem;margin-top: 1rem;color: rgb(8, 8, 119);}
+.btn {width: 50vw;justify-content: space-around;}
+button{background: rgb(191, 225, 255)}
+button:hover {cursor: pointer;}
+
+
